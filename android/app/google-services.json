@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815182437113",
+    "project_id": "carbon-7da03",
+    "storage_bucket": "carbon-7da03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815182437113:android:836c128e2152411546e028",
+        "android_client_info": {
+          "package_name": "com.carboncredit.cafony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsDkUoEJGulCeVQEZ-S2OSN8fHkdKoqsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
